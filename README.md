@@ -16,11 +16,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/NLP-blue?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-purple?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-green?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Deep%20Learning-red?logo=tensorflow&logoColor=white" />
 </p>
-
 ### 💻 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
