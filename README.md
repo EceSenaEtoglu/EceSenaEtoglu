@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ece Sena Etoglu  
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com) 
 
 ## 🚀 About Me  
 - 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
@@ -10,20 +10,6 @@
 - 💼 Industry experience in **AI Engineering**, **Data Engineering** and **Backend Development**.
 - 🌍 Completed an **Erasmus semester at the University of Tübingen** on the Summer 2024 term, took MSc-level courses in NLP , ML and Databases
 - ⚡ Fun fact: I love dancing and was a volleyball player for 7 years!
-
-## 💼 Experience  
-
-### 🧑‍💻 AI Engineer Intern — Innova (Ankara) *(07/2025 – 09/2025)*  
--  Worked on two projects involving Data Engineering and Speaker Verification
-- Simulated **PostgreSQL databases** with 1–7M rows of synthetic data for stress testing **OpenMetadata**, using Dockerized pipelines. Designed a **custom disproportionate stratified sampler** to improve profiling accuracy on small tables.  Automated **OpenMetadata YAML configuration** generation from computed sampling proportions.  
-- Developed a **reproducible speaker verification pipeline** with Hugging Face and WeSpeaker models.  Delivered detailed benchmarking with **ROC/DET curves, EER, minDCF**, and subgroup analyses by gender, language, and utterance duration.  
-
-### 🔬 Guest Researcher (Voluntary) — Health NLP Lab, University of Tübingen (Remote) *(09/2024 – Present)*  
-- Initiated collaboration after Erasmus semester to continue research in **factuality of LLMs** in the embedding space. Contributed to a **top NLP venue main conference submission* as second author, my very first research experience. Continuing voluntary collaboration, gaining mentorship from senior NLP researchers.  
-
-### 🌍 Backend Developer Intern — Ouva (US, Remote) *(02/2024 – 04/2024)*  
-- Developed a **custom health check** using Spring Boot Actuator. Integrated **Docker Compose** for consistent multi-service management.  Optimized **GraphQL data retrieval** with cursor-based pagination, improving performance on large datasets.  
-
 
 ## 🛠️ Skills  
 
@@ -60,9 +46,22 @@
 - [**Food Delivery System**](https://github.com/mustafa-ege/DeepFeed-Food-Delivery-Website)  
     University software engineering lab project.  
    - Served as **Co-Lead, Software Architect & Developer**.  Directed the **design and configuration** of the overall system architecture.  
-   - Integrated the **data layer** and delivered core feature implementations.  Facilitated team discussions and guided collaborative development.  
+   - Integrated the **data layer** and delivered core feature implementations.  Facilitated team discussions and guided collaborative development.
+ 
+## 💼 Experience  
+
+### 🧑‍💻 AI Engineer Intern — Innova (Ankara) *(07/2025 – 09/2025)*  
+-  Worked on two projects involving Data Engineering and Speaker Verification
+- Simulated **PostgreSQL databases** with 1–7M rows of synthetic data for stress testing **OpenMetadata**, using Dockerized pipelines. Designed a **custom disproportionate stratified sampler** to improve profiling accuracy on small tables.  Automated **OpenMetadata YAML configuration** generation from computed sampling proportions.  
+- Developed a **reproducible speaker verification pipeline** with Hugging Face and WeSpeaker models.  Delivered detailed benchmarking with **ROC/DET curves, EER, minDCF**, and subgroup analyses by gender, language, and utterance duration.  
+
+### 🔬 Guest Researcher (Voluntary) — Health NLP Lab, University of Tübingen (Remote) *(09/2024 – Present)*  
+- Initiated collaboration after Erasmus semester to continue research in **factuality of LLMs** in the embedding space. Contributed to a **top NLP venue main conference submission* as second author, my very first research experience. Continuing voluntary collaboration, gaining mentorship from senior NLP researchers.  
+
+### 🌍 Backend Developer Intern — Ouva (US, Remote) *(02/2024 – 04/2024)*  
+- Developed a **custom health check** using Spring Boot Actuator. Integrated **Docker Compose** for consistent multi-service management.  Optimized **GraphQL data retrieval** with cursor-based pagination, improving performance on large datasets.  
+
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/)  
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/EceSenaEtoglu)  
