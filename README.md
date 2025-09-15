@@ -4,7 +4,6 @@
 
 ## 🚀 About Me  
 - 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
-- 🎓 **Early Career AI/ML Engineer | NLP/LLMs | Recent CS Graduate**  
 - 🤖 Passionate about **AI/ML, NLP, and Large Language Models**.  
 - 🧪 Guest Student Researcher at the prestigious **Health NLP Lab (University of Tübingen)**. Contributed as **second author** to a top NLP venue main conference submission.  
 - 💼 Industry experience in **AI Engineering**, **Data Engineering** and **Backend Development**.
