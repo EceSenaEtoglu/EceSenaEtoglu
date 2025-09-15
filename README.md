@@ -11,28 +11,33 @@
 - 🌍 Completed an **Erasmus semester at the University of Tübingen** on the Summer 2024 term, took MSc-level courses in NLP , ML and Databases
 - ⚡ Fun fact: I love dancing and was a volleyball player for 7 years!
 
-## 🛠️ Skills  
+## 🛠️ Technical Skills  
 
-<p align="left">
-  
 ### 🧠 AI & Machine Learning  
-<img src="https://img.shields.io/badge/NLP-blue?logo=google&logoColor=white" /> 
-<img src="https://img.shields.io/badge/LLMs-purple?logo=openai&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=white" /> 
-<img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Deep%20Learning-red?logo=tensorflow&logoColor=white" />  
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-blue?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-purple?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?logo=tensorflow&logoColor=white" />
+</p>
 
 ### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+</p>
 
-### ⚙️ Frameworks & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/OpenMetadata-darkgreen?logo=datadog&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />  
+### ⚙️ Frameworks & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMetadata-darkgreen?logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
 
 
 ## 📂 Featured Projects  
