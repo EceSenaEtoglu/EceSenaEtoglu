@@ -40,6 +40,12 @@
 
 
 ## 📂 Featured Projects  
+- [**AI News MVP – Advanced Recommendation System**](https://github.com/yourusername/ai-news-mvp)  
+   **MVP for hands-on experience** with modern AI technologies including **FAISS**, **semantic retrieval**, **neural reranking**, **multi-model fusion**, and **transformer-based summarization**.
+  Demonstrates practical implementation of recommendation systems and RAG architectures.  
+   **Technologies**: FAISS, Sentence Transformers, Neural Reranking, Graph RAG, MMR Diversification, BART Summarization  
+   **Features**: Interactive Web UI, Multi-Model Fusion, Entity Extraction, Real-time News Ingestion
+  
 - [**Inform Me! – Multilingual News Podcast Generator**](https://github.com/Inform-Me-The-Podcast-Generator/inform_me_mobile)  
    Team project for the **Google Solution Challenge 2024**.  Served as **Lead Developer & Project Leader**. Implemented core logic, managed routes, and coordinated team progress. Created a multilingual real-time podcast generator designed primarily for visually impaired users.  
    🎥 [Demo Video](https://www.youtube.com/watch?v=0bl6tGHzSAw)  
