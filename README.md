@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Ece Sena Etoglu  
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/) [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
 
 
