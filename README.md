@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Ece Sena Etoglu  
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com) 
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/) [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
+
 
 ## 🚀 About Me  
 - 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
@@ -70,8 +73,3 @@
 
 ### 🌍 Backend Developer Intern — Ouva (US, Remote) *(02/2024 – 04/2024)*  
 - Developed a **custom health check** using Spring Boot Actuator. Integrated **Docker Compose** for consistent multi-service management.  Optimized **GraphQL data retrieval** with cursor-based pagination, improving performance on large datasets.  
-
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/)  
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
