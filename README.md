@@ -51,14 +51,14 @@
 
 ## 📂 Featured Projects  
 - [**Inform Me! – Multilingual News Podcast Generator**](https://github.com/Inform-Me-The-Podcast-Generator/inform_me_mobile)  
-   🚀 Team project for the **Google Solution Challenge 2024**.  Served as **Lead Developer & Project Leader**. Implemented core logic, managed routes, and coordinated team progress. Created a multilingual real-time podcast generator designed primarily for visually impaired users.  
+   Team project for the **Google Solution Challenge 2024**.  Served as **Lead Developer & Project Leader**. Implemented core logic, managed routes, and coordinated team progress. Created a multilingual real-time podcast generator designed primarily for visually impaired users.  
    🎥 [Demo Video](https://www.youtube.com/watch?v=0bl6tGHzSAw)  
 
 - [**LDA Topic Modeling & Summarization Models**](https://github.com/EceSenaEtoglu/NLP-Eberhard-Karls-Tuebingen-Uni/tree/main/final_graded_assignment)  
    Comparative analysis of **BART & T5** for abstractive summarization.  
 
 - [**Food Delivery System**](https://github.com/mustafa-ege/DeepFeed-Food-Delivery-Website)  
-   📦 University software engineering lab project.  
+    University software engineering lab project.  
    - Served as **Co-Lead, Software Architect & Developer**.  Directed the **design and configuration** of the overall system architecture.  
    - Integrated the **data layer** and delivered core feature implementations.  Facilitated team discussions and guided collaborative development.  
 
