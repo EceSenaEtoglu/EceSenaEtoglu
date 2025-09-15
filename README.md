@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ece Sena Etoglu  
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineering-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20Engineer-brightgreen?style=for-the-badge&logo=github)](mailto:ecesena.etoglu@gmail.com)
 
 ## 🚀 About Me  
 - 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
@@ -44,13 +44,6 @@
 
 - [**Food Delivery System**](https://github.com/mustafa-ege/DeepFeed-Food-Delivery-Website)  
    Designed and implemented system architecture with **Spring Boot + SQLite**.  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EceSenaEtoglu&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=EceSenaEtoglu&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EceSenaEtoglu&layout=compact&theme=tokyonight)  
 
 ---
 
