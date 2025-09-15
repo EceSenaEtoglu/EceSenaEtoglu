@@ -8,6 +8,7 @@
 - 🤖 Passionate about **AI/ML, NLP, and Large Language Models**.  
 - 🧪 Guest Student Researcher at the prestigious **Health NLP Lab (University of Tübingen)**. Contributed as **second author** to a top NLP venue main conference submission.  
 - 💼 Industry experience in **AI Engineering**, **Data Engineering** and **Backend Development**.
+- 🌍 Completed an **Erasmus semester at the University of Tübingen** on the Summer 2024 term, took MSc-level courses in NLP , ML and Databases
 - ⚡ Fun fact: I love dancing and was a volleyball player for 7 years!
 
 ## 💼 Experience  
