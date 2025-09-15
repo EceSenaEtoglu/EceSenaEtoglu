@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ece Sena Etoglu  
+# Hi there 👋, I'm Ece
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/) [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
 
