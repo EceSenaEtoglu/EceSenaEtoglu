@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 - 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
 - 🤖 Passionate about **AI/ML, NLP, and Large Language Models**.  
-- 🧪 Guest Student Researcher at the prestigious **Health NLP Lab (University of Tübingen)**. Contributed as **second author** to a top NLP venue main conference submission.  
+- 🧪 Guest Student Researcher at the prestigious **Health NLP Lab (University of Tübingen)**. Contributed as second author to a paper submitted to the **main track of a leading NLP venue**.
 - 💼 Industry experience in **AI Engineering**, **Data Engineering** and **Backend Development**.
 - 🌍 Completed an **Erasmus semester at the University of Tübingen** on the Summer 2024 term, took MSc-level courses in NLP , ML and Databases
 - ⚡ Fun fact: I love dancing and was a volleyball player for 7 years!
@@ -40,7 +40,7 @@
 
 
 
-## 📂 Featured Projects  
+##  Featured Projects  
 - [**AI News MVP – Advanced Recommendation System**](https://github.com/yourusername/ai-news-mvp)  
    **MVP for hands-on experience** with modern AI technologies including **FAISS**, **semantic retrieval**, **neural reranking**, **multi-model fusion**, and **transformer-based summarization**.
   Demonstrates practical implementation of recommendation systems and RAG architectures.  
@@ -59,7 +59,7 @@
    - Served as **Co-Lead, Software Architect & Developer**.  Directed the **design and configuration** of the overall system architecture.  
    - Integrated the **data layer** and delivered core feature implementations.  Facilitated team discussions and guided collaborative development.
  
-## 💼 Experience  
+##  Experience  
 
 ### 🧑‍💻 AI Engineer Intern — Innova (Ankara) *(07/2025 – 09/2025)*  
 -  Worked on two projects involving Data Engineering and Speaker Verification
@@ -67,7 +67,7 @@
 - Developed a **reproducible speaker verification pipeline** with Hugging Face and WeSpeaker models.  Delivered detailed benchmarking with **ROC/DET curves, EER, minDCF**, and subgroup analyses by gender, language, and utterance duration.  
 
 ### 🔬 Guest Researcher (Voluntary) — Health NLP Lab, University of Tübingen (Remote) *(09/2024 – Present)*  
-- Initiated collaboration after Erasmus semester to continue research in **factuality of LLMs** in the embedding space. Contributed to a **top NLP venue main conference submission* as second author, my very first research experience. Continuing voluntary collaboration, gaining mentorship from senior NLP researchers.  
+- Initiated collaboration after Erasmus semester to continue research in **factuality of LLMs** in the embedding space. Contributed to the **main track of a leading NLP venue** as second author, my very first research experience. Continuing voluntary collaboration, gaining mentorship from senior NLP researchers.  
 
 ### 🌍 Backend Developer Intern — Ouva (US, Remote) *(02/2024 – 04/2024)*  
-- Developed a **custom health check** using Spring Boot Actuator. Integrated **Docker Compose** for consistent multi-service management.  Optimized **GraphQL data retrieval** with cursor-based pagination, improving performance on large datasets.  
+- Developed a custom health check using Spring Boot Actuator. Integrated **Docker Compose** for consistent multi-service management.  Optimized **GraphQL data retrieval** with cursor-based pagination, improving performance on large datasets.  
