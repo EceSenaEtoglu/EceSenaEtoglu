@@ -41,7 +41,7 @@
 
 
 ##  Featured Projects  
-- [**AI News MVP – Advanced Recommendation System**](https://github.com/yourusername/ai-news-mvp)  
+- [**AI News MVP – Advanced Recommendation System**](https://github.com/EceSenaEtoglu/news-recommendation-system)  
    **MVP for hands-on experience** with modern AI technologies including **FAISS**, **semantic retrieval**, **neural reranking**, **multi-model fusion**, and **transformer-based summarization**.
   Demonstrates practical implementation of recommendation systems and RAG architectures.  
    **Technologies**: FAISS, Sentence Transformers, Neural Reranking, Graph RAG, MMR Diversification, BART Summarization  
