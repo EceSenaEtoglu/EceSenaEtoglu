@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ecesenaetoglu/) [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ecesena.etoglu@gmail.com)  
 
 ## 🚀 About Me  
-- 🔎 **Looking for full-time opportunities in AI/ML Engineering (Early Career Roles)**  
+- 🔎 **Open to full-time opportunities in AI/ML Research, Engineering, or roles blending both (Early Career)**  
 - 🤖 Passionate about **AI/ML, NLP, and Large Language Models**.  
 - 🧪 Guest Student Researcher at the prestigious **Health NLP Lab (University of Tübingen)**. Contributed as second author to a paper submitted to the **main track of a leading NLP venue**.  
 - 💼 Industry experience in **AI Engineering**, **Data Engineering**, and **Backend Development**.  
